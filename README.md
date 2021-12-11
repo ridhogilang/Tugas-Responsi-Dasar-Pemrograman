@@ -1,2 +1,4 @@
 # Tugas-Responsi-Dasar-Pemrograman
-Ridho Gilang Bening_21330057_Informatika B
+Nama  : Ridho Gilang Bening
+NIM   : 21330057
+Kelas : Informatika B
